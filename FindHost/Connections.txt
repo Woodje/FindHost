@@ -1,0 +1,9 @@
+Nye forbindelser vil blive husket.
+
+
+Status       Lokalt    Eksternt                  Netv‘rk
+
+-------------------------------------------------------------------------------
+Afbrudt                \\192.168.139.103\elev    Microsoft Windows Network
+Kommandoen blev udf›rt.
+
